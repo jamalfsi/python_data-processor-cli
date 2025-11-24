@@ -4,6 +4,10 @@ Date,Product,Region,Sales,Quantity,Customer_ID
 2024-01-03,Tablet,West,843.0,7,1577
 2024-01-04,Phone,East,816.0,3,1777
 2024-01-05,Tablet,West,171.0,9,1640
+2024-01-06,Phone,South,,3,1417
+2024-01-07,Laptop,North,,3,1341
+2024-01-08,Tablet,North,,3,1004
+2024-01-09,Laptop,West,,2,1834
 2024-01-10,Laptop,North,531.0,4,1456
 2024-01-11,Laptop,North,749.0,6,1006
 2024-01-12,Laptop,West,697.0,1,1471

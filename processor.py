@@ -47,6 +47,7 @@ Examples:
     
     # Create processor instance
     dp = DataProcessor(args.input)
+    dp.show_info()
     
     # Execute operations in logical order
     if args.info:
